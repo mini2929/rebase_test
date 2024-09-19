@@ -1,3 +1,10 @@
 master1
 master2
+<<<<<<< HEAD
 master3
+=======
+master3
+master4
+master5
+
+>>>>>>> a6fbc2b (master5)
